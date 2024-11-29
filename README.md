@@ -2,16 +2,22 @@ Hello! This is our SWU Campus Resource Booking System. Just a few things to note
 
 The database and admin website files are uploaded on Hostinger 
 admin website -->  https://swuresource.scarlet2.io/capstonePHP/admin/index.php
+
+
 Email:      jadmin@tag.com
 Password:   jadmin
 
 The application also requires login information, there are currently two existing static accounts (By necessity, there is no account registration)
 
 SBO Account:
+
+
 username: SBO
 password: @StudentBodyOrg
 
 SWUdevs Account:
+
+
 username: SWUdevs
 password: @GDSC_revival
 
@@ -20,6 +26,9 @@ If you've run the app more than once, the Get Started page you see at first laun
 Thank You!
 
 ARK group>
+
 Lady Bridget Alegre
+
 Kirk Mercado
+
 Rye Lao Guico
